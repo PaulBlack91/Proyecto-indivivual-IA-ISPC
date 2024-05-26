@@ -3,7 +3,6 @@
 
 
 
-
 def calcular_promedio(nota1, nota2, nota3, nota4, nota5):
     suma = nota1 + nota2 + nota3 + nota4 + nota5
     promedio = suma / 5
