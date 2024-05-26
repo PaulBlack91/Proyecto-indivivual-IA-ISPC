@@ -1,7 +1,7 @@
-# EJERCICIO 1: Un estudiante está cursando 5 materias, tiene la nota de cada materia y quiere saber cuál es su promedio.+
+# EJERCICIO 1: Un estudiante está cursando 5 materias, tiene la nota de cada materia y quiere saber cuál es su promedio.
 
 
-# Creamo un diccionario vacío para las notas
+# Creamos un diccionario vacío para las notas
 
 notas = {}
 

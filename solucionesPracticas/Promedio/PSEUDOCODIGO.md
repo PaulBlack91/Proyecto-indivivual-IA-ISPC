@@ -1,9 +1,9 @@
-Algoritmo CalcularPromedioNotas
+    Algoritmo CalcularPromedioNotas
     Definir notas Como Real[5]
     Definir nota, promedio, suma Como Real
     Definir i Como Entero
 
-    suma <- 0
+      suma <- 0
 
     Para i <- 1 Hasta 5 Hacer
         Repetir
@@ -24,4 +24,4 @@ Algoritmo CalcularPromedioNotas
 
     Escribir "El promedio de las notas es: ", promedio
 
-FinAlgoritmo
+    FinAlgoritmo
